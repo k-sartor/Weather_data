@@ -2,4 +2,4 @@
 Open-Source Data of a weather station located in University of Liège
 
 Currently there are available on this site:
-meteo.labothap.eu
+http://www.meteo.labothap.eu
